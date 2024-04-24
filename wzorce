@@ -1,0 +1,4 @@
+Stan - klasa GameStates
+Obserwator - w przyciski różnie reagują na ruch myszy np. w ActionBar
+dekorator - w bar drawButtonFeedback, ktory rusuje ramke dla obrazu
+singleton
